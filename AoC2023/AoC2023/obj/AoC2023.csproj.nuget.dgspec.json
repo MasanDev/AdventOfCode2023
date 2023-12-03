@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023Solutions\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023\\AoC2023\\AoC2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023Solutions\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023\\AoC2023\\AoC2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023Solutions\\ClassLibrary1\\ClassLibrary1.csproj",
-        "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023Solutions\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023\\AoC2023\\AoC2023.csproj",
+        "projectName": "AoC2023",
+        "projectPath": "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023\\AoC2023\\AoC2023.csproj",
         "packagesPath": "C:\\Users\\matti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023Solutions\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\matti\\source\\repos\\AdventOfCode2023\\AoC2023\\AoC2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matti\\AppData\\Roaming\\NuGet\\NuGet.Config",
