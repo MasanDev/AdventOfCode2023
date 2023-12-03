@@ -1,0 +1,15 @@
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\bin\Debug\net8.0\AoC2023.exe
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\bin\Debug\net8.0\AoC2023.deps.json
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\bin\Debug\net8.0\AoC2023.runtimeconfig.json
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\bin\Debug\net8.0\AoC2023.dll
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\bin\Debug\net8.0\AoC2023.pdb
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.AssemblyInfoInputs.cache
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.AssemblyInfo.cs
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.csproj.CoreCompileInputs.cache
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.sourcelink.json
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.dll
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\refint\AoC2023.dll
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.pdb
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\AoC2023.genruntimeconfig.cache
+C:\Users\matti\source\repos\AdventOfCode2023\AoC2023\AoC2023\obj\Debug\net8.0\ref\AoC2023.dll

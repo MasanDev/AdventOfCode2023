@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using AoC2023.src;
+class Program
+{
+    static private void Main ( String [] args)
+    {
+        var obj = new _3a();
+    }
+}
+
